@@ -7,7 +7,6 @@
 -- BASIC QUESTIONS
 
 -- 1. Count the total number of sales records.
-SELECT SUM (
 -- 2. Count the number of sales per Continent.
 -- 3. Count the number of sales per Country or State.
 -- 4. List all distinct Shop Name values.
