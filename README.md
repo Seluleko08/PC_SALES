@@ -36,7 +36,8 @@ Data filtering and grouping
 Aggregate functions (SUM, COUNT, AVG, MAX, MIN)
 Data analysis using GROUP BY and ORDER BY
 Basic business KPI calculations
-Working with real-world structured data
+Working with real-world structured data 
+
 📊 Example Query
 Total Sales per Continent
 SELECT 
@@ -48,6 +49,8 @@ Total Revenue
 SELECT 
     SUM(Sale_Price) AS total_revenue
 FROM [pc_sales].[dbo].[1772542271737_pc_data (2)];
+
+
 📌 Key Learnings
 
 This exercise helped me understand:
@@ -56,11 +59,7 @@ How raw data is structured in a database
 How SQL is used to extract meaningful insights
 The importance of grouping and aggregation in data analysis
 The basic workflow of a Data Engineer working with data
-👨‍💻 Author
 
-Name: Your Name
-Field: Data Engineering (Beginner)
-Focus: SQL, Data Analysis, and Data Engineering Fundamentals
 
 📌 Note
 
